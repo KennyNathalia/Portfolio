@@ -1,0 +1,81 @@
+.topnav {
+	overflow: hidden;
+	background-color: white;
+}
+
+.topnav a{
+	float: left;
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px
+}
+
+body {
+	background-color: grey;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+}
+
+p {
+	font-family: verdana;
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 30px
+}
+
+h4 {
+	font-size: 30px
+}
+
+h5 {
+	font-size: 20px
+}
+
+#plaatje1 {
+	float: inherit;
+	width:200px;
+}
+
+#moneyboy {
+	float: left;
+	transform: rotate(270deg);
+	width: 200px
+}
+
+#moneyboy {
+	border: 2px solid
+}
+
+#plusgang {
+	float: right;
+	transform: rotate(270deg);
+	width: 220px
+}
+
+#plusgang {
+	border: 2px solid
+}
+
+#plaatje2 {
+	float: inherit;
+	width: 250px
+}
+
+#plaatje3 {
+	float:left;
+	padding: 5px;
+}
+
+#plaatje2 {
+	border: 2px solid;
+	border-radius: 10px
+}
+
